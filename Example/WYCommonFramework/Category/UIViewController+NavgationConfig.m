@@ -10,6 +10,7 @@
 #import "UIImage+GKGradientImage.h"
 #import "UIImage+Library.h"
 #import <FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.h>
+#import "UIColor+GKColor.h"
 
 @implementation UIViewController (NavgationConfig)
 
