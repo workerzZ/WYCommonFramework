@@ -1,0 +1,6 @@
+framework module WYCommonFramework {
+  umbrella header "WYCommonFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

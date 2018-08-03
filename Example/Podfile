@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'WYCommonFramework_Example' do
   pod 'WYCommonFramework', :path => '../'
+  pod 'FDFullscreenPopGesture'
 
   target 'WYCommonFramework_Tests' do
     inherit! :search_paths

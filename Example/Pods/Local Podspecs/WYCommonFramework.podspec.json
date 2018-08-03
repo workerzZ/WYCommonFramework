@@ -1,0 +1,27 @@
+{
+  "name": "WYCommonFramework",
+  "version": "0.1.0",
+  "summary": "A short description of WYCommonFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/workerzZ/WYCommonFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "workerzZ": "459379621@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/workerzZ/WYCommonFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WYCommonFramework/Classes/**/*",
+  "dependencies": {
+    "FDFullscreenPopGesture": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - WYCommonFramework (0.1.0):
+    - FDFullscreenPopGesture
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture
+  - WYCommonFramework (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FDFullscreenPopGesture
+
+EXTERNAL SOURCES:
+  WYCommonFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  WYCommonFramework: 34dd13de28a71038cbdad1f8d17b303ee4ebd473
+
+PODFILE CHECKSUM: e4a6911ca30dabdfc4ec99a4a864845ed2ad94ee
+
+COCOAPODS: 1.5.3
